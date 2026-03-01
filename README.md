@@ -145,7 +145,7 @@ Essa parte é a mais simples, precisaremos fazer algumas adaptações para que t
 ### Pinta
 
 No pinta, você vai apertar CTRL + R e selecionar a altura e largura da imagem conforme indicado no curso. Lembre de desmarcar a opção "Manter a taxa de proporção" e marcar a opção "Por tamanho absoluto:" para que possa escolher a quantidade de pixels.
-![Como fazer o recorte no Pinta](/imagens/imagens2.png "Como fazer recorte no Pinta.")
+![Como fazer o recorte no Pinta](/imagens/imagem2.png "Como fazer recorte no Pinta.")
 
 ### Ida Pro
 
