@@ -8,7 +8,7 @@ Durante o módulo, eu utilizei o Zorin OS 17.3, o que significa que estou utiliz
 
 Espero que esse material te ajude, qualquer correção ou sugestão pode falar comigo no twitter pelo user @perlutech
 
-Existe um pré-primeiro passso que é: atualize os pacotes e a lista de pacotes no seu sistem com ```sudo apt update && sudo apt upgrade```
+Existe um pré-primeiro passo que é: atualize os pacotes e a lista de pacotes no seu sistem com ```sudo apt update && sudo apt upgrade```
 
 ## Primeiro passo: instalando ferramentas.
 
