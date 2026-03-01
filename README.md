@@ -53,7 +53,7 @@ Com o Wine instalado você consegue rodar o Ida Pro, x64dbg e ler arquivos execu
 
 ### Editor Hex
 
-Para essa etapa eu recomendo que você baixe 2 editores diferentes. Por que? Por que um é bonito e intuitivo e funciona para 99% dos casos, exceto um pequeno detalhe na última aula. O outro você só vai utilizar para colar uma parte do código hex e colar sem sobrescrever o que já existia antes.
+Para essa etapa eu recomendo que você baixe 2 editores diferentes. Por que? Por que um é bonito e intuitivo e funciona para 99% dos casos, exceto um pequeno detalhe na última aula. O outro você só vai utilizar para copiar uma parte do código hex e colar sem sobrescrever o que já existia antes.
 
 O melhor editor hex que encontrei foi o GHex, ele é o que você vai usar na maior parte do tempo, para o truque explicado pelo professor na última aula você pode utilizar o bless hex editor.
 
